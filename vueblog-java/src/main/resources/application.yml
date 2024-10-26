@@ -1,0 +1,24 @@
+# 应用服务 WEB 访问端口
+server:
+  port: 8081
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/vueblog?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
+    username: root
+    password: 123456
+mybatis-plus:
+  mapper-locations: classpath*:/mapper/**Mapper.xml
+shiro-redis:
+  enabled: true
+  redis-manager:
+    host: 127.0.0.1:6379
+    password: 123456
+huangpw:
+  jwt:
+    # 密钥
+    secret: f4e2e52034348f86b67cde581c0f9eb5
+    # 过期时间，单位为秒 604800 = 7天
+    expire: 604800
+    # 请求头名称
+    header: Authorization
