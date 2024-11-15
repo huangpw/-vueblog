@@ -39,3 +39,15 @@ https://www.bilibili.com/video/BV1PQ4y1P7hZ/
 
 - 先安装依赖
 - 执行`npm run serve` ，成功后访问：http://localhost:8080/
+
+
+
+哔哩哔哩视频：https://www.bilibili.com/video/BV1PQ4y1P7hZ/
+
+博文地址：[超详细！4小时开发一个SpringBoot+vue前后端分离博客项目 - VueBlog](https://www.markerhub.com/course/intro/1)
+
+文档地址：[MarkerHub: 一个专注于Java项目开发与教学的学习基地 - Gitee.com](https://gitee.com/markerhub/markerhub/tree/master/项目文档/vueblog)
+
+**markerhub-vueblog：**https://gitee.com/markerhub/vueblog
+
+**huangpw-vueblog：**https://gitee.com/huangpeiwen/vueblog
