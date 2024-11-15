@@ -26,3 +26,16 @@ https://www.bilibili.com/video/BV1PQ4y1P7hZ/
 
 
 
+
+
+## 启动JAVA项目
+
+- 先启动redis服务
+- 找到【VueblogJavaApplication】，右键运行
+
+
+
+# 启动Vue项目
+
+- 先安装依赖
+- 执行`npm run serve` ，成功后访问：http://localhost:8080/
