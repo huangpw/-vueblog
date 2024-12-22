@@ -1,4 +1,4 @@
-# 14小时开发一个SpringBoot+vue前后端分离博客项目 - VueBlog（基于SpringBoot+Vue开发的前后端分离博客项目完整教学）
+# 4小时开发一个SpringBoot+vue前后端分离博客项目 - VueBlog（基于SpringBoot+Vue开发的前后端分离博客项目完整教学）
 
 ## 技术栈
 
